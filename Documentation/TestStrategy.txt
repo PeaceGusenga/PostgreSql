@@ -1,0 +1,44 @@
+Test Strategy:
+
+1. OBJECTIVE
+The objective of this test strategy is to ensure the reliability, functionality, 
+and performance of the PostgreSQL database using JavaScript-based tests.
+
+2. SCOPE
+The testing scope includes:
+> Database connectivity and authentication
+> CRUD operations (Create, Read, Update, Delete)
+> Data integrity and consistency
+> Performance and scalability
+> Error handling and exception scenarios
+
+3. TEST ENVIROMENT
+> Database: PostgreSQL
+> Programming Language: JavaScript
+> Testing Framework: Mocha
+> Assertion Library: Chai
+> Operating System: macOS
+> Test Management: JIRA
+
+4. TEST TYPES
+> Unit Tests: Focus on individual database operations and functions.
+> Integration Tests: Test interactions between different components, modules, or databases.
+> Performance Tests: Assess the performance and scalability of the database under varying loads.
+
+5. TEST DATA 
+> Create sample test data that covers a wide range of scenarios, 
+including valid and invalid data, boundary conditions, and edge cases.
+> Ensure the test data represents the real-world scenarios your application may encounter.
+
+6. TEST EXECUTION
+> Write test scripts using JavaScript, Mocha, and Chai.
+> Execute tests locally or using continuous integration tools.
+> Generate test reports for analysis and tracking.
+
+7. DEFECT MANAGMENT 
+> Track defects found during testing using JIRA.
+> Assign appropriate priorities and severities to each defect.
+> Provide detailed steps to reproduce the defects and attach relevant logs or screenshots.
+
+
+
