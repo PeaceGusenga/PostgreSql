@@ -1,0 +1,20 @@
+1. TEST PLAN
+> Outline the testing objectives, scope, and approach.
+> Specify the testing environments and resources required.
+> Define the entry and exit criteria for testing phases.
+> Identify the roles and responsibilities of team members.
+
+2. TEST CASES
+> Document individual test cases covering different functionalities and scenarios.
+> Include preconditions, test steps, expected results, and actual results.
+> Specify the test data and any additional configurations required.
+
+3. TEST EXECUTION LOGS AND REPORTS
+> Maintain logs of test executions, including test start time, end time, and test results.
+> Generate detailed test reports highlighting the pass/fail status of each test case.
+> Include relevant screenshots, error messages, and logs for failed test cases.
+
+4. DEFECT REPORTS
+> Document defects encountered during testing.
+> Include a clear description of each defect, its severity, and steps to reproduce.
+> Attach relevant logs, screenshots, or other supporting evidence.
